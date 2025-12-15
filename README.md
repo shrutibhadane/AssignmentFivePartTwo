@@ -3,8 +3,8 @@
 This Android application demonstrates 15 key Jetpack Compose concepts with clean, separated code architecture. The application is organized into individual learning modules, each accessible from a central dashboard.
 
 ## 📋 Features Implemented
-  <img width="1080" height="2412" alt="Screenshot_20251215_163216" src="https://github.com/user-attachments/assets/533b5643-687b-4426-a5e1-76d068531b11" width="300" height="600"/>
- <img width="1080" height="2412" alt="Screenshot_20251215_163246" src="https://github.com/user-attachments/assets/72bfcbb0-6aee-4e1b-a98f-8946c2ecba33" width="300" height="600" />
+  <img width="1080" height="2412" alt="Screenshot_20251215_163216" src="https://github.com/user-attachments/assets/533b5643-687b-4426-a5e1-76d068531b11" width="600" height="1200"/>
+ <img width="1080" height="2412" alt="Screenshot_20251215_163246" src="https://github.com/user-attachments/assets/72bfcbb0-6aee-4e1b-a98f-8946c2ecba33" width="600" height="1200" />
  
 ### 1. **Custom Reusable Composables** (`ProfileCardSection.kt`)
 - ✅ Created `ProfileCard` composable with function parameters
