@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">AssignmentFivePartTwo</string>
+
+    <string name="jetpack_compose_demo">Jetpack Compose Demo</string>
+    <string name="_15_comprehensive_examples">15 Comprehensive Examples</string>
+
+    <string name="basic_compose_concepts">Basic Compose Concepts</string>
+
+    <string name="custom_profile_cards">Custom Profile Cards</string>
+    <string name="reusable_composable_components">Reusable composable components</string>
+    <string name="section_1_custom_profile_cards">Section 1: Custom Profile Cards</string>
+
+    <string name="slots_api">Slots API</string>
+    <string name="header_footer_slots_pattern"><![CDATA[Header & Footer slots pattern]]></string>
+    <string name="slots_api_demo">Slots API Demo</string>
+    <string name="section_2_slots_api_header_footer"><![CDATA[Section 2: Slots API (Header & Footer)]]></string>
+
+    <string name="lazycolumn">LazyColumn</string>
+    <string name="_30_students_list_with_scroll">30 Students list with scroll</string>
+    <string name="students_list">Students List</string>
+    <string name="section_3_lazycolumn_with_30_students">Section 3: LazyColumn with 30 Students</string>
+
+    <string name="lazyrow">LazyRow</string>
+    <string name="horizontal_categories_scroll">Horizontal categories scroll</string>
+
+    <string name="grid_layout">Grid Layout</string>
+    <string name="products_in_grid_format">Products in grid format</string>
+
+    <string name="intermediate_concepts">Intermediate Concepts</string>
+
+    <string name="animation_basics">Animation Basics</string>
+    <string name="compose_animations_demo">Compose animations demo</string>
+
+    <string name="custom_textfield">Custom TextField</string>
+    <string name="styled_input_components">Styled input components</string>
+
+    <string name="form_validation">Form Validation</string>
+    <string name="input_validation_patterns">Input validation patterns</string>
+
+    <string name="navigation">Navigation</string>
+    <string name="navigation_with_arguments">Navigation with arguments</string>
+
+    <string name="dialogs_sheets"><![CDATA[Dialogs & Sheets]]></string>
+    <string name="modal_dialogs_bottom_sheets"><![CDATA[Modal dialogs & bottom sheets]]></string>
+
+    <string name="advanced_concepts">Advanced Concepts</string>
+
+    <string name="tabs_pager">Tabs + Pager</string>
+    <string name="tabbed_interface_with_pager">Tabbed interface with pager</string>
+
+    <string name="list_filtering">List Filtering</string>
+    <string name="search_filter_functionality"><![CDATA[Search & filter functionality]]></string>
+
+    <string name="state_hoisting">State Hoisting</string>
+    <string name="stateless_ui_pattern">Stateless UI pattern</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="theme_switching_support">Theme switching support</string>
+
+    <string name="onboarding">Onboarding</string>
+    <string name="welcome_screens_flow">Welcome screens flow</string>
+    <string name="onboarding_screens">Onboarding Screens</string>
+    <string name="section_15_onboarding_screens">Section 15: Onboarding Screens</string>
+    <string name="welcome_to_our_app">Welcome to Our App</string>
+    <string name="discover_amazing_features_and_boost_your_productivity_with_our_intuitive_interface">Discover amazing features and boost your productivity with our intuitive interface.</string>
+    <string name="stay_organized">Stay Organized</string>
+    <string name="keep_track_of_all_your_tasks_and_projects_in_one_place_never_miss_a_deadline_again">Keep track of all your tasks and projects in one place. Never miss a deadline again!</string>
+    <string name="get_started">Get Started</string>
+    <string name="you_re_all_set_let_s_begin_your_journey_to_better_productivity_and_organization">You\'re all set! Let\'s begin your journey to better productivity and organization.</string>
+    <string name="next">Next</string>
+
+
+</resources>
