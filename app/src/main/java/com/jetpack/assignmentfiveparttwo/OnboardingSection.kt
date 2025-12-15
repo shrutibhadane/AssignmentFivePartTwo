@@ -276,29 +276,6 @@ fun OnboardingCompleteScreen(onRestart: () -> Unit) {
                 }
             }
 
-            Spacer(modifier = Modifier.height(24.dp))
-
-            Card(
-                modifier = Modifier.fillMaxWidth(),
-                colors = CardDefaults.cardColors(
-                    containerColor = MaterialTheme.colorScheme.surfaceVariant
-                )
-            ) {
-                Column(modifier = Modifier.padding(16.dp)) {
-                    Text(
-                        text = "Onboarding Features:",
-                        fontWeight = FontWeight.Bold,
-                        fontSize = 14.sp
-                    )
-                    Spacer(modifier = Modifier.height(8.dp))
-                    Text("✓ 3 onboarding screens", fontSize = 12.sp)
-                    Text("✓ HorizontalPager with swipe", fontSize = 12.sp)
-                    Text("✓ Page indicators", fontSize = 12.sp)
-                    Text("✓ Next & Skip buttons", fontSize = 12.sp)
-                    Text("✓ Navigation to home screen", fontSize = 12.sp)
-                    Text("✓ State control", fontSize = 12.sp)
-                }
-            }
         }
     }
 }
